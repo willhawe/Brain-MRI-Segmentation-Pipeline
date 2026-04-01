@@ -1,4 +1,4 @@
-# brain-mri-segmentation-pipeline
+# Brain-MRI-Segmentation-Pipeline
 
 Automated 3D brain tissue segmentation on structural MRI using **pretrained deep learning models** in Python, PyTorch, MONAI, `deepbet`, and `deepmriprep`.
 
